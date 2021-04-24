@@ -8,6 +8,11 @@ Note: Can be used with `nvuillam/mega-linter@insiders` in your GitHub Action meg
 
 - Linter versions upgrades
   - [snakemake](https://snakemake.readthedocs.io/en/stable/) from 6.1.1 to **6.1.2** on 2021-04-20
+  - [stylelint](https://stylelint.io) from 13.12.0 to **13.13.0** on 2021-04-24
+  - [hadolint](https://github.com/hadolint/hadolint) from 2.2.0 to **2.3.0** on 2021-04-24
+  - [eslint](https://eslint.org) from 7.24.0 to **7.25.0** on 2021-04-24
+  - [snakemake](https://snakemake.readthedocs.io/en/stable/) from 6.1.2 to **6.2.1** on 2021-04-24
+  - [terrascan](https://www.accurics.com/products/terrascan/) from 1.4.0 to **1.5.0** on 2021-04-24
 <!-- linter-versions-end -->
 
 ## [4.32.0] 2021-04-20
